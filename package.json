@@ -1,0 +1,12 @@
+{
+  "name": "js-multirename-vscode-bug",
+  "version": "1.0.0",
+  "description": "Demo of a bug in vscode which causes file imports to break when groups of files are moved.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SciDev5",
+  "license": "ISC"
+}
