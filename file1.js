@@ -1,2 +1,2 @@
-import "./file2";
+import "./k/file2";
 import "./file3";
